@@ -19,3 +19,11 @@ sirTankiBot
 -----------
 A bot network for online games to test pattern recognition and robotics/AI algorithms
 This version is for Tanki Online, works on Mac and Windows.
+
+PLEASE NOTE
+
+USAGE OF GAME BOTS MAY BE PROHIBITED BY GAME PROVIDERS
+MAKE SURE TO ASK THE GAME PROVIDERS FOR PERMISSION TO USE THE CODE TO TEST AI STRATEGIES FIRST !!!
+IN NO CASE I SHALL BE HELD ACCOUNTABLE FOR DAMAGE CAUSED
+
+THIS IS FOR AI RESEARCH PURPOSES ONLY
